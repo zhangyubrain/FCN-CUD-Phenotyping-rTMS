@@ -17,4 +17,4 @@ classification.py
 ### Prediction of the rTMS treatment, using the CUD-discriminative weights
 rTMS_prediction.py
 ### Reproduction instructions
-Once the original .nii files are obtained from the website. The files were preprocessed using fMRIPrep. Then the time signals were randomly segmented into 150 time points three times and these FCs were used as augmented data. Then we regressed out the FD values of each FC. 
+Once the original .nii files are obtained from the website. The files were preprocessed using fMRIPrep. Then the time signals were randomly segmented into 150 time points three times and these FCs were used as augmented data. Then we regressed out the FD values of each FC. The FCs between the discovery cohort and independent cohort were harmonized with ComBat, controlling the age, and sex information.
