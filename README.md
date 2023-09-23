@@ -5,6 +5,12 @@ Zhao, K., Fonzo, G. A., Xie, H., Oathes, D. J., Keller, C. J., Carlisle, N., ...
 <img width="1000" alt="1669910392114" src="https://github.com/zhangyubrain/FCN-CUD-Phenotyping-rTMS/blob/main/img/1695421844211.png">
 </div>
 
+## dataset
+[The SUDMEX-CONN dataset](https://zenodo.org/record/5123331). 
+[The SUDMEX-TMS dataset](https://zenodo.org/record/7126853). 
+[The UCLA-CNP dataset](https://openneuro.org/datasets/ds000030/versions/1.0.0). 
+[The NYU dataset](http://fcon_1000.projects.nitrc.org/indi/retro/nyuCocaine.html).
+
 ## Implementation
 ### Classification of the CUD in the discovery cohort and independent cohort
 classification.py
