@@ -6,7 +6,7 @@ Zhao, K., Fonzo, G. A., Xie, H., Oathes, D. J., Keller, C. J., Carlisle, N., ...
 </div>
 
 ## Implementation<br />
-### Classification of the CUD in the discovery cohort and independent cohort<br />
+### Classification of the CUD in the discovery cohort and independent cohort
 classification.py
-### Prediction of the rTMS treatment, using the CUD-discriminative weights<br />
+### Prediction of the rTMS treatment, using the CUD-discriminative weights
 rTMS_prediction.py
