@@ -5,7 +5,7 @@ Zhao, K., Fonzo, G. A., Xie, H., Oathes, D. J., Keller, C. J., Carlisle, N., ...
 <img width="1000" alt="1669910392114" src="https://github.com/zhangyubrain/FCN-CUD-Phenotyping-rTMS/blob/main/img/1695421844211.png">
 </div>
 
-## Implementation<br />
+## Implementation
 ### Classification of the CUD in the discovery cohort and independent cohort
 classification.py
 ### Prediction of the rTMS treatment, using the CUD-discriminative weights
