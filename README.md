@@ -6,10 +6,10 @@ Zhao, K., Fonzo, G. A., Xie, H., Oathes, D. J., Keller, C. J., Carlisle, N., ...
 </div>
 
 ## dataset
-[The SUDMEX-CONN dataset](https://zenodo.org/record/5123331). 
-[The SUDMEX-TMS dataset](https://zenodo.org/record/7126853). 
-[The UCLA-CNP dataset](https://openneuro.org/datasets/ds000030/versions/1.0.0). 
-[The NYU dataset](http://fcon_1000.projects.nitrc.org/indi/retro/nyuCocaine.html).
+[The SUDMEX-CONN dataset](https://zenodo.org/record/5123331). <br />
+[The SUDMEX-TMS dataset](https://zenodo.org/record/7126853). <br />
+[The UCLA-CNP dataset](https://openneuro.org/datasets/ds000030/versions/1.0.0). <br />
+[The NYU dataset](http://fcon_1000.projects.nitrc.org/indi/retro/nyuCocaine.html). <br />
 
 ## Implementation
 ### Classification of the CUD in the discovery cohort and independent cohort
