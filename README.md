@@ -1,5 +1,5 @@
 # CUD classification and prediction of the obtained CUD-discriminative pattern
-Zhao, K., Fonzo, G. A., Xie, H., Oathes, D. J., Keller, C. J., Carlisle, N., ... & Zhang, Y. (2023). [Discriminative functional connectivity signature of cocaine use disorder links to rTMS treatment response](https://www.nature.com/articles/s44220-024-00209-1). Nature Mental Health, 2024.
+Kanhao Zhao, Gregory A. Fonzo, Hua Xie, Desmond J. Oathes, Corey J. Keller, Nancy B. Carlisle, Amit Etkin, Eduardo A. Garza-Villarreal, Yu Zhang. [Discriminative functional connectivity signature of cocaine use disorder links to rTMS treatment response](https://www.nature.com/articles/s44220-024-00209-1). Nature Mental Health, 2024.
 
 <div align=center>
 <img width="1000" alt="1669910392114" src="https://github.com/zhangyubrain/FCN-CUD-Phenotyping-rTMS/blob/main/img/1695421844211.png">
