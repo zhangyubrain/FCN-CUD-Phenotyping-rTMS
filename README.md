@@ -6,8 +6,8 @@ Kanhao Zhao, Gregory A. Fonzo, Hua Xie, Desmond J. Oathes, Corey J. Keller, Nanc
 </div>
 
 ## dataset
-[The SUDMEX-CONN dataset](https://zenodo.org/record/5123331). <br />
-[The SUDMEX-TMS dataset](https://zenodo.org/record/7126853). <br />
+[The SUDMEX-CONN dataset](https://openneuro.org/datasets/ds003346/versions/1.1.2). <br />
+[The SUDMEX-TMS dataset](https://openneuro.org/datasets/ds003037/versions/2.0.0). <br />
 [The UCLA-CNP dataset](https://openneuro.org/datasets/ds000030/versions/1.0.0). <br />
 [The NYU dataset](http://fcon_1000.projects.nitrc.org/indi/retro/nyuCocaine.html). <br />
 
